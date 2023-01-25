@@ -1,0 +1,70 @@
+*{
+    margin: 0;  
+    padding: 0;
+}
+/* navbar */    
+nav{
+    display: flex;
+}
+nav img{
+    margin-top: 15px;   
+    margin-left: 150px;
+    width: 6%;
+    
+}
+nav ul{
+    display: flex;
+    gap: 80px;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+nav ul li{
+    list-style: none;
+    text-transform: capitalize;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
+/* left */
+div .heading h1{
+    font-size: 40px;
+    width: 450px;
+    text-transform: capitalize;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 15rem;
+    margin-left: 10rem;
+    margin-bottom: 1.5rem;
+}
+div .description p{
+    color: grey;
+    font-size: 12px;
+    margin-left:10rem ;
+}
+.button button{
+    background-color: #3b855b;
+    border-style: none;
+    border-radius: 6px;
+    color: #fff;
+    padding: 10px 10px;
+    margin-left: 10rem;
+    margin-top: 1.5rem;
+}
+
+/* right */
+.hero{
+    position: absolute;
+    right: 50px;
+    bottom: 20px;
+    top: 20vh;
+}
+.hero .image-1 img{
+    width: 30%;
+    margin-left: 10px;
+    
+}
+.hero .images-2 img{
+    width: 65%;
+    margin-top: 10px;
+    
+}
+
+
