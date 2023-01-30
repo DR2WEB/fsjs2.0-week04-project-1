@@ -6,6 +6,11 @@ This is my week04/project-1
 ### Project-1
 
 what i learned from this project:
+- margin
+
+- padding
+
+- grid
 
 - text-transform
 
@@ -14,4 +19,5 @@ what i learned from this project:
 - responsive unit units  
 
 
-![Screenshot from 2022-12-09 16-22-52](https://user-images.githubusercontent.com/119164102/214563218-e8abe354-c1fa-4ced-98bb-c339ad08b771.png)
+
+![Screenshot from 2023-01-30 20-01-13](https://user-images.githubusercontent.com/119164102/215506484-4c556803-172f-46b5-82fe-e224fc317174.png)
