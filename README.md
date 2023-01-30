@@ -1,9 +1,9 @@
-# fsjs2.0-week04-project-1  
+# fsjs2.0-week04-project-01  
 
 Hi everyone,  
-This is my week04/project-1
+This is my week04/project-01
 
-### Project-1
+## Project-1
 
 #### what i learned from this project:
 - margin
